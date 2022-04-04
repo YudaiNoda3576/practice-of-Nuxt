@@ -13,6 +13,6 @@ export default {
     return {
       message: 'Hello Nuxt'
     }
-  }
+  },
 }
 </script>
